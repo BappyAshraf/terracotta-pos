@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/javascripts/tables
+END
+examples.datatables.default.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/javascripts/tables/examples.datatables.default.js
+END
+examples.datatables.row.with.details.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/javascripts/tables/examples.datatables.row.with.details.js
+END
+examples.datatables.tabletools.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/javascripts/tables/examples.datatables.tabletools.js
+END
+examples.datatables.editable.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/javascripts/tables/examples.datatables.editable.js
+END
+examples.datatables.ajax.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/javascripts/tables/examples.datatables.ajax.js
+END

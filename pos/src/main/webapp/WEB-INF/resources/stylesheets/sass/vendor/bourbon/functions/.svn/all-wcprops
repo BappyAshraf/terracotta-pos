@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/functions
+END
+_px-to-em.scss
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/functions/_px-to-em.scss
+END
+_modular-scale.scss
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/functions/_modular-scale.scss
+END
+_px-to-rem.scss
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/functions/_px-to-rem.scss
+END
+_transition-property-name.scss
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/functions/_transition-property-name.scss
+END
+_color-lightness.scss
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/functions/_color-lightness.scss
+END
+_tint-shade.scss
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/functions/_tint-shade.scss
+END
+_flex-grid.scss
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/functions/_flex-grid.scss
+END
+_strip-units.scss
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/functions/_strip-units.scss
+END
+_unpack.scss
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/functions/_unpack.scss
+END
+_grid-width.scss
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/functions/_grid-width.scss
+END
+_assign.scss
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/functions/_assign.scss
+END
+_golden-ratio.scss
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/functions/_golden-ratio.scss
+END

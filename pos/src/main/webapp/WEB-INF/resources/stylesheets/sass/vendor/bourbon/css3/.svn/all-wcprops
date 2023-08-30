@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3
+END
+_transform.scss
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_transform.scss
+END
+_hidpi-media-query.scss
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_hidpi-media-query.scss
+END
+_hyphens.scss
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_hyphens.scss
+END
+_background.scss
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_background.scss
+END
+_animation.scss
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_animation.scss
+END
+_columns.scss
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_columns.scss
+END
+_placeholder.scss
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_placeholder.scss
+END
+_flex-box.scss
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_flex-box.scss
+END
+_filter.scss
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_filter.scss
+END
+_keyframes.scss
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_keyframes.scss
+END
+_radial-gradient.scss
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_radial-gradient.scss
+END
+_box-sizing.scss
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_box-sizing.scss
+END
+_perspective.scss
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_perspective.scss
+END
+_transition.scss
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_transition.scss
+END
+_user-select.scss
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_user-select.scss
+END
+_font-feature-settings.scss
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_font-feature-settings.scss
+END
+_border-image.scss
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_border-image.scss
+END
+_image-rendering.scss
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_image-rendering.scss
+END
+_background-image.scss
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_background-image.scss
+END
+_appearance.scss
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_appearance.scss
+END
+_font-face.scss
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_font-face.scss
+END
+_calc.scss
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_calc.scss
+END
+_border-radius.scss
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_border-radius.scss
+END
+_backface-visibility.scss
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_backface-visibility.scss
+END
+_linear-gradient.scss
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/stylesheets/sass/vendor/bourbon/css3/_linear-gradient.scss
+END

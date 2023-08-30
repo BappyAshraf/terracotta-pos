@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/keymap
+END
+emacs.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/keymap/emacs.js
+END
+vim.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/keymap/vim.js
+END
+sublime.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/keymap/sublime.js
+END

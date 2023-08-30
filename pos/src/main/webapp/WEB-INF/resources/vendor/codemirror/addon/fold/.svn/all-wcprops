@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/fold
+END
+comment-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/fold/comment-fold.js
+END
+markdown-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/fold/markdown-fold.js
+END
+foldgutter.css
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/fold/foldgutter.css
+END
+brace-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/fold/brace-fold.js
+END
+foldcode.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/fold/foldcode.js
+END
+foldgutter.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/fold/foldgutter.js
+END
+xml-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/fold/xml-fold.js
+END
+indent-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/fold/indent-fold.js
+END

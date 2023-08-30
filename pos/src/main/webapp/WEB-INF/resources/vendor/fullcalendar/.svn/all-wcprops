@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/fullcalendar
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/fullcalendar/license.txt
+END
+gcal.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/fullcalendar/gcal.js
+END
+lang-all.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/fullcalendar/lang-all.js
+END
+fullcalendar.css
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/fullcalendar/fullcalendar.css
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/fullcalendar/changelog.txt
+END
+fullcalendar.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/fullcalendar/fullcalendar.js
+END
+fullcalendar.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/fullcalendar/fullcalendar.min.js
+END
+fullcalendar.print.css
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/fullcalendar/fullcalendar.print.css
+END

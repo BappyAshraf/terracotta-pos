@@ -1,0 +1,202 @@
+/* Add here all your CSS customizations */
+
+
+
+.nrm01 {
+    background: #e2f1f3 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm02 {
+    background: #ffdfff none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm03 {
+    background: #c0dcc0 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm04 {
+    background: #99cc99 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm05 {
+    background: #ccf none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm06 {
+    background: #d4dfaa none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm07 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm08 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm09 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm10 {
+    background: #c0dcc0 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm11 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm12 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm13 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm14 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm15 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm16 {
+    background: #ccffff none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm17 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm18 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm19 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm20 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm21 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm22 {
+    background: #fff none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm23 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm24 {
+    background: #ff6699 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm25 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm26 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm27 {
+    background: #ffccff none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm28 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm29 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm30 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm31 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm32 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}
+.nrm33 {
+    background: #e9e9e9 none repeat scroll 0 0;
+    color: #000;
+    font-family: vardana,Helvetica,tahoma;
+    font-size: 14px;
+}

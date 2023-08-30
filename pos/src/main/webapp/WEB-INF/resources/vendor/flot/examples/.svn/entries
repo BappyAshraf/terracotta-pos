@@ -1,0 +1,180 @@
+10
+
+dir
+893
+https://192.168.95.7/svn/brtais/src/main/webapp/WEB-INF/resources/vendor/flot/examples
+https://192.168.95.7/svn/brtais
+
+
+
+2016-05-10T06:27:33.975803Z
+1
+fayez
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c54f39c0-1dc6-154b-925c-dddd1b220f02
+
+zooming
+dir
+
+visitors
+dir
+
+image
+dir
+
+ajax
+dir
+
+basic-usage
+dir
+
+selection
+dir
+
+categories
+dir
+
+symbols
+dir
+
+axes-time-zones
+dir
+
+series-errorbars
+dir
+
+axes-multiple
+dir
+
+threshold
+dir
+
+series-types
+dir
+
+axes-time
+dir
+
+navigate
+dir
+
+resize
+dir
+
+realtime
+dir
+
+annotating
+dir
+
+tracking
+dir
+
+background.png
+file
+
+
+
+
+2016-12-10T11:12:41.486914Z
+a85513c02e9b07e15f0abbe238ef5afb
+2016-05-10T06:27:33.975803Z
+1
+fayez
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+231
+
+stacking
+dir
+
+axes-interacting
+dir
+
+series-pie
+dir
+
+examples.css
+file
+
+
+
+
+2016-12-10T11:12:41.488914Z
+38401e0a84eac97a840481f97ba03ddd
+2016-05-10T06:27:33.975803Z
+1
+fayez
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1834
+
+shared
+dir
+
+interacting
+dir
+
+series-toggle
+dir
+
+basic-options
+dir
+
+canvas
+dir
+
+percentiles
+dir
+

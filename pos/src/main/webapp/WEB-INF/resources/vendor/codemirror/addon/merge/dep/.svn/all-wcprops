@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/merge/dep
+END
+diff_match_patch.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/merge/dep/diff_match_patch.js
+END

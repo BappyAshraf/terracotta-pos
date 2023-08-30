@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+
+<tiles-definitions>
+
+	<definition name="base.definition" template="/WEB-INF/views/layout.jsp">
+		<put-attribute name="title" value="" />
+		<put-attribute name="header" value="/WEB-INF/views/header.jsp" />
+		<put-attribute name="menu" value="/WEB-INF/views/menu.jsp" />
+		<put-attribute name="body" value="" />
+		<!-- <put-attribute name="footer" value="/WEB-INF/views/footer.jsp" /> -->
+	</definition>
+
+	<definition name="null.definition" template="/WEB-INF/views/layout2.jsp">
+		<put-attribute name="body" value="" />
+	</definition>
+
+	<definition name="user.definition" template="/WEB-INF/views/layout3.jsp">
+		<put-attribute name="title" value="" />
+		<put-attribute name="header" value="/WEB-INF/views/header.jsp" />
+		<put-attribute name="body" value="" />
+		<put-attribute name="footer" value="/WEB-INF/views/footer.jsp" />
+	</definition>
+
+	<definition name="withoutMenu.definition" template="/WEB-INF/views/layoutWithoutMenu.jsp">
+		<put-attribute name="title" value="" />
+		<put-attribute name="header" value="/WEB-INF/views/header.jsp" />
+		<put-attribute name="body" value="" />
+		<put-attribute name="footer" value="/WEB-INF/views/footer.jsp" />
+	</definition>
+
+	<definition name="popup.definition" template="/WEB-INF/views/layout4.jsp">
+		<put-attribute name="title" value="" />
+		<!-- <put-attribute name="body" value="" /> -->
+	</definition>
+
+	<!-- ============================================================================================================================================ -->
+	<definition name="home" extends="base.definition">
+		<put-attribute name="title" value="Welcome Home" />
+		<put-attribute name="body" value="/WEB-INF/views/home.jsp" />
+	</definition>
+
+	<definition name="changePasswordFirst" extends="withoutMenu.definition">
+		<put-attribute name="title" value="Password Change" />
+		<put-attribute name="body" value="/WEB-INF/views/userPass.jsp" />
+	</definition>
+
+	<definition name="changePasswordInfo" extends="base.definition">
+		<put-attribute name="title" value="Password Change" />
+		<put-attribute name="body" value="/WEB-INF/views/user/userPass.jsp" />
+	</definition>
+
+
+	<!-- inventory start -->
+
+	<definition name="createIngredients" extends="base.definition">
+		<put-attribute name="title" value="Create Product" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/inventory/createIngredients.jsp" />
+	</definition>
+
+	<definition name="ingredientsList" extends="null.definition">
+		<put-attribute name="body"
+			value="/WEB-INF/views/inventory/ingredientsList.jsp" />
+	</definition>
+
+	<definition name="storeProduct" extends="base.definition">
+		<put-attribute name="title" value="Create Product" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/inventory/storeProduct.jsp" />
+	</definition>
+
+	<definition name="inventoryList" extends="null.definition">
+		<put-attribute name="body"
+			value="/WEB-INF/views/inventory/inventoryList.jsp" />
+	</definition>
+
+	<definition name="productView" extends="base.definition">
+		<put-attribute name="title" value="Product View" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/inventory/productView.jsp" />
+	</definition>
+
+	<definition name="otherInventory" extends="base.definition">
+		<put-attribute name="title" value="Other Inventory" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/inventory/otherInventory.jsp" />
+	</definition>
+
+	<definition name="wastageView" extends="base.definition">
+		<put-attribute name="title" value="Wastage" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/inventory/wastageView.jsp" />
+	</definition>
+
+	<definition name="wastage" extends="base.definition">
+		<put-attribute name="title" value="Wastage" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/inventory/wastage.jsp" />
+	</definition>
+	
+	<definition name="storeManagementView" extends="base.definition">
+		<put-attribute name="title" value="Store Management View" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/inventory/storeManagementView.jsp" />
+	</definition>
+	
+	<definition name="storeManagement" extends="base.definition">
+		<put-attribute name="title" value="Store Management" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/inventory/storeManagement.jsp" />
+	</definition>
+	
+	<definition name="kitchenManagementView" extends="base.definition">
+		<put-attribute name="title" value="Product View" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/inventory/kitchenManagementView.jsp" />
+	</definition>
+	
+	<definition name="kitchenManagement" extends="base.definition">
+		<put-attribute name="title" value="Product View" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/inventory/kitchenManagement.jsp" />
+	</definition>
+
+	<!-- inventory end -->
+
+
+	<!-- point of sale start -->
+
+	<definition name="orderInfoList" extends="null.definition">
+		<put-attribute name="body"
+			value="/WEB-INF/views/pointOfSale/orderInfoList.jsp" />
+	</definition>
+
+	<definition name="createItem" extends="base.definition">
+		<put-attribute name="title" value="Create Item" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/pointOfSale/createItem.jsp" />
+	</definition>
+
+	<definition name="itemConfiguration" extends="base.definition">
+		<put-attribute name="title" value="Item Configuration" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/pointOfSale/itemConfiguration.jsp" />
+	</definition>
+
+	<definition name="itemList" extends="null.definition">
+		<put-attribute name="body"
+			value="/WEB-INF/views/pointOfSale/itemList.jsp" />
+	</definition>
+
+
+	<definition name="orderManagement" extends="base.definition">
+		<put-attribute name="title" value="Order Management" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/pointOfSale/orderManagement.jsp" />
+	</definition>
+
+	<definition name="discount" extends="base.definition">
+		<put-attribute name="title" value="Discount" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/pointOfSale/discount.jsp" />
+	</definition>
+
+	<definition name="discountView" extends="base.definition">
+		<put-attribute name="title" value="Discount View" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/pointOfSale/discountView.jsp" />
+	</definition>
+
+	<definition name="orderReprint" extends="base.definition">
+		<put-attribute name="title" value="Order Reprint" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/pointOfSale/orderReprint.jsp" />
+	</definition>
+	
+	<definition name="dueCustomer" extends="base.definition">
+		<put-attribute name="title" value="Due Customer" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/pointOfSale/dueCustomer.jsp" />
+	</definition>
+	
+	<definition name="dueHistoryList" extends="null.definition">
+		<put-attribute name="body" value="/WEB-INF/views/pointOfSale/dueHistoryList.jsp" />
+	</definition>
+	<!-- point of sale end -->
+	<!-- Report -->
+
+
+	<definition name="inventoryReport" extends="base.definition">
+		<put-attribute name="title" value="Inventory Report" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/reports/inventoryReport.jsp" />
+	</definition>
+
+	<definition name="posReport" extends="base.definition">
+		<put-attribute name="title" value="POS Report" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/reports/posReport.jsp" />
+	</definition>
+
+
+	<definition name="employeeReport" extends="base.definition">
+		<put-attribute name="title" value="Employee Report" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/reports/employeeReport.jsp" />
+	</definition>
+
+	<definition name="costAnalysisReport" extends="base.definition">
+		<put-attribute name="title" value="Cost Analysis Report" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/reports/costAnalysisReport.jsp" />
+	</definition>
+
+	<definition name="payrollReport" extends="base.definition">
+		<put-attribute name="title" value="Payroll Report" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/reports/payrollReport.jsp" />
+	</definition>
+
+	<!-- Report -->
+	<!-- venue reservation start -->
+
+	<definition name="reserveVenueView" extends="base.definition">
+		<put-attribute name="title" value="Reserve a venue" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/venueReservation/reserveVenueView.jsp" />
+	</definition>
+
+	<definition name="venueReservedList" extends="null.definition">
+		<put-attribute name="body"
+			value="/WEB-INF/views/venueReservation/venueReservedList.jsp" />
+	</definition>
+
+	<definition name="reserveVenue" extends="base.definition">
+		<put-attribute name="title" value="Set Reserve venue" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/venueReservation/reserveVenue.jsp" />
+	</definition>
+
+
+	<!-- venue reservation end -->
+
+
+	<definition name="roleInfoView" extends="base.definition">
+		<put-attribute name="title" value="Role Info View" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/roleInfoView.jsp" />
+	</definition>
+
+	<definition name="roleInfo" extends="base.definition">
+		<put-attribute name="title" value="Role Info" />
+		<put-attribute name="body" value="/WEB-INF/views/admin/roleInfo.jsp" />
+	</definition>
+
+	<definition name="roleMenuMappingView" extends="base.definition">
+		<put-attribute name="title" value="Role Menu Mapping View" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/roleMenuMappingView.jsp" />
+	</definition>
+
+	<definition name="roleMenuMapping" extends="base.definition">
+		<put-attribute name="title" value="Role Menu Mapping" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/roleMenuMapping.jsp" />
+	</definition>
+
+
+
+	<definition name="employeeInfoView" extends="base.definition">
+		<put-attribute name="title" value="Employee View" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/employeeInfoView.jsp" />
+	</definition>
+
+	<definition name="employeeInfo" extends="base.definition">
+		<put-attribute name="title" value="Employee Info" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/employeeInfo.jsp" />
+	</definition>
+
+
+	<definition name="employeeInfoView2" extends="base.definition">
+		<put-attribute name="title" value="Employee View" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/hr/employeeInfoView.jsp" />
+	</definition>
+
+	<definition name="employeeInfo2" extends="base.definition">
+		<put-attribute name="title" value="Employee Info" />
+		<put-attribute name="body" value="/WEB-INF/views/hr/employeeInfo.jsp" />
+	</definition>
+
+	<definition name="userInfoView" extends="base.definition">
+		<put-attribute name="title" value="User Search" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/userInfoview.jsp" />
+	</definition>
+
+	<definition name="userInfo" extends="base.definition">
+		<put-attribute name="title" value="User Information" />
+		<put-attribute name="body" value="/WEB-INF/views/admin/userInfo.jsp" />
+	</definition>
+
+	<definition name="userList" extends="null.definition">
+		<put-attribute name="body" value="/WEB-INF/views/admin/userList.jsp" />
+	</definition>
+
+
+	<definition name="adminList" extends="null.definition">
+		<put-attribute name="body" value="/WEB-INF/views/admin/adminList.jsp" />
+	</definition>
+
+
+	<definition name="employeeInfoView" extends="base.definition">
+		<put-attribute name="title" value="Employee View" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/hr/employeeInfoView.jsp" />
+	</definition>
+
+
+	<definition name="addMember" extends="base.definition">
+		<put-attribute name="title" value="Add Member" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/membership/addMember.jsp" />
+	</definition>
+
+	<definition name="generateCard" extends="base.definition">
+		<put-attribute name="title" value="Generate Card" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/membership/generateCard.jsp" />
+	</definition>
+
+	<definition name="accountStatus" extends="base.definition">
+		<put-attribute name="title" value="Account Status" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/membership/accountStatus.jsp" />
+	</definition>
+
+
+	<definition name="employeeMonthlyConsumption" extends="base.definition">
+		<put-attribute name="title" value="Employee Monthly Consumption Info" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/accounts/employeeMonthlyConsumption.jsp" />
+	</definition>
+
+	<definition name="salaryProcess" extends="base.definition">
+		<put-attribute name="title" value="Employee Salary Process" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/accounts/salaryProcess.jsp" />
+	</definition>
+
+	<definition name="supplierInfo" extends="base.definition">
+		<put-attribute name="title" value="Employee Salary Process" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/accounts/supplierInfo.jsp" />
+	</definition>
+
+	<definition name="supplierInfoView" extends="base.definition">
+		<put-attribute name="title" value="Employee Salary Process" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/accounts/supplierInfoView.jsp" />
+	</definition>
+	
+	<definition name="ownerConsumptionInfo" extends="base.definition">
+		<put-attribute name="title" value="Owner Consumption Info" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/accounts/ownerConsumptionInfo.jsp" />
+	</definition>
+	
+	<definition name="ownerConsumptionHistory" extends="base.definition">
+		<put-attribute name="title" value="Owner Consumption History" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/accounts/ownerConsumptionHistory.jsp" />
+	</definition>
+	
+	
+	<definition name="stockProcessView" extends="base.definition">
+		<put-attribute name="title" value="Stock Process" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/accounts/stockProcessView.jsp" />
+	</definition>
+	
+	<definition name="stockSummaryReport" extends="base.definition">
+		<put-attribute name="title" value="Stock Summary Report" />
+		<put-attribute name="body"
+			value="/WEB-INF/views/reports/stockSummaryReport.jsp" />
+	</definition>
+	
+
+</tiles-definitions>

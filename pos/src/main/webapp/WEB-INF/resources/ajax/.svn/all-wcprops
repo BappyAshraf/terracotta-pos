@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/ajax
+END
+ajax-treeview-roots.json
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/ajax/ajax-treeview-roots.json
+END
+ajax-treeview-children.json
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/ajax/ajax-treeview-children.json
+END
+ajax-datatables-sample.json
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/ajax/ajax-datatables-sample.json
+END

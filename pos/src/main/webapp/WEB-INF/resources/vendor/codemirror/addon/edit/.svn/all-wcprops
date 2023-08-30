@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/edit
+END
+closebrackets.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/edit/closebrackets.js
+END
+trailingspace.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/edit/trailingspace.js
+END
+matchbrackets.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/edit/matchbrackets.js
+END
+matchtags.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/edit/matchtags.js
+END
+continuelist.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/edit/continuelist.js
+END
+closetag.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/brtais/!svn/ver/1/src/main/webapp/WEB-INF/resources/vendor/codemirror/addon/edit/closetag.js
+END
